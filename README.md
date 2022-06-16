@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ethanrunn
-- 👀 I’m interested in Product design and development
-- 🌱 I’m currently learning UI/UX design with the ZuriTeam and Ingressive4Good
+- 👀 I’m interested in Product design and development.
+- Undertook one cohort of I4gXZuriTeam training for this
+- 🌱 I’m currently learning front-end development with the ZuriTeam and Ingressive4Good
 - 💞️ I’m looking to collaborate on web and mobile design projects
 - 📫 You can reach me by mail at ethanrunn5@gmail.com
 
