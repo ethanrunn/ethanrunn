@@ -1,10 +1,9 @@
  # Hello, I'm Francis Uramah
-<button>
- Visit my LinkedIn profile
-<a href="https://www.linkedin.com/in/francis-uramah-89250a187/">Go!</a>
-</button><br>
 
 Cyber threats are evolving daily, and I am dedicated to staying ahead. I am a Cybersecurity Analyst. SOC Analyst, Incident Responder, and Ethical Hacker with a strong foundation in network security, threat detection, penetration testing, and incident response. My passion for cybersecurity stems from my drive to protect organizations, individuals, and critical systems from vulnerabilities and attacks and I have honed my ability to analyze risks, strengthen security postures, and mitigate cyber threats effectively.
+<br><br>
+<a href="https://www.linkedin.com/in/francis-uramah-89250a187/">Visit my LinkedIn profile</a>
+<br>
 
 ## Objective
 Whether it's analyzing security logs, conducting penetration tests, investigating incidents, or fortifying web applications, I bring a data-driven and methodical approach to cybersecurity that minimize risks and enhance digital safety and organizational security. As an advocate for continuous learning, I am always exploring the latest tools, frameworks, and methodologies to enhance my expertise. My goal is to help businesses and individuals stay secure in an increasingly digital world while sharing knowledge and contributing to the cybersecurity community.
