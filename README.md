@@ -1,6 +1,6 @@
-# Hello, I'm Francis Uramah
+ # Hello, I'm Francis Uramah
 <button>
-<a href="https://www.linkedin.com/in/francis-uramah-89250a187/"></a>
+<a href="https://www.linkedin.com/in/francis-uramah-89250a187/">LinkedIn</a>
 </button>
 
 Cyber threats are evolving daily, and I am dedicated to staying ahead. I am a Cybersecurity Analyst. SOC Analyst, Incident Responder, and Ethical Hacker with a strong foundation in network security, threat detection, penetration testing, and incident response. My passion for cybersecurity stems from my drive to protect organizations, individuals, and critical systems from vulnerabilities and attacks and I have honed my ability to analyze risks, strengthen security postures, and mitigate cyber threats effectively.
@@ -9,7 +9,7 @@ Cyber threats are evolving daily, and I am dedicated to staying ahead. I am a Cy
 Whether it's analyzing security logs, conducting penetration tests, investigating incidents, or fortifying web applications, I bring a data-driven and methodical approach to cybersecurity that minimize risks and enhance digital safety and organizational security. As an advocate for continuous learning, I am always exploring the latest tools, frameworks, and methodologies to enhance my expertise. My goal is to help businesses and individuals stay secure in an increasingly digital world while sharing knowledge and contributing to the cybersecurity community.
 
 ## Skills
-Network Security & Monitoring -Protecting and monitoring networks against intrusions, unauthorized access, and data breaches.<br><br>
+Network Security & Monitoring - Protecting and monitoring networks against intrusions, unauthorized access, and data breaches.<br><br>
 Threat Detection & Incident Response - Identifying cyber threats, mitigating risks, and responding to security incidents efficiently.<br><br>
 Penetration Testing & Hacking - Ethically simulating cyber-attacks and threat actors to uncover system vulnerabilities and strengthen security.<br><br>
 Security Information & Event Management (SIEM) - Utilizing tools like Splunk, ELK, and Google Chronicle to analyze security logs and detect anomalies.<br><br>
