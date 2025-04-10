@@ -25,6 +25,7 @@ Whether it's analyzing security logs, conducting penetration tests, investigatin
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Phishing Campaign using Gophish | <a href="https://github.com/ethanrunn/Gophish-Netflix-Phishing-Campaign/blob/main/README.md">See Lab</a>|
+| Cracking a VeraCrypt Password & Decrypting an Encrypted File | <a href="https://github.com/ethanrunn/Cracking-a-VeraCrypt-Password-Decrypting-an-Encrypted-File/edit/main/README.md">See Lab</a>|
 | SIEM Implementation and Log Analysis          | <a href="#">See Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="#">See Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Lab|
