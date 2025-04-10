@@ -20,10 +20,11 @@ Whether it's analyzing security logs, conducting penetration tests, investigatin
 ### Web Application Testing & Security
   - Identifying and patching vulnerabilities in web applications using tools like Burp Suite and OpenVAS.<br>
 ### Cloud Security & Compliance
-  - Understanding cloud security frameworks and ensuring compliance with security best practices.<br>
+  - Understand cloud security frameworks and ensure compliance with security best practices.<br>
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Phishing Campaign using Gophish | <a href="https://github.com/ethanrunn/Gophish-Netflix-Phishing-Campaign/blob/main/README.md">See Lab</a>|
 | SIEM Implementation and Log Analysis          | <a href="#">See Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="#">See Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Lab|
