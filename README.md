@@ -33,9 +33,6 @@ Whether it's analyzing security logs, conducting penetration tests, investigatin
 | SIEM Implementation and Log Analysis          | <a href="#">See Lab</a>|
 | Security Automation with Shuffle SOAR         |  <a href="#">See Lab</a> |
 | Network Traffic Monitoring and Attack Detection | <a href="#">See Lab</a> |
-| Incident Response Planning and Execution      |  <a href="#">See Lab</a> |
-| Case Management with TheHive                  |  <a href="#">See Lab</a> |
-| Scripting and Automation for Threat Mitigation |  <a href="#">See Lab</a> |
 
 ## Tools
 
