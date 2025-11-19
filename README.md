@@ -18,7 +18,7 @@ Whether it's analyzing security logs, conducting penetration tests, investigatin
 ### Security Information & Event Management (SIEM)
 - Utilizing tools like Splunk, ELK, and Google Chronicle to analyze security logs and detect anomalies.<br>
 ### Web Application Testing & Security
-  - Identifying and patching vulnerabilities in web applications using tools like Burp Suite and OpenVAS.<br>
+  - Identifying and patching vulnerabilities in web applications using tools like Burp Suite and OpenVAS <br>
 ### Cloud Security & Compliance
   - Understand cloud security frameworks and ensure compliance with security best practices.<br>
 
@@ -29,11 +29,12 @@ Whether it's analyzing security logs, conducting penetration tests, investigatin
 | Password Cracking on Open-Source System (Metasploitable2)          | <a href="https://github.com/ethanrunn/Password-Cracking-on-Metasploitable2/blob/main/README.md">See Lab</a>|
 | Threat Modeling SAST/DAST Assessment          | <a href="https://github.com/ethanrunn/Threat-Modeling-SAST-DAST-assessment">See Lab</a>|
 | SIEM Implementation and Log Analysis          | <a href="#">See Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="#">See Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Lab|
-| Incident Response Planning and Execution      | View Lab|
-| Case Management with TheHive                  | View Lab|
-| Scripting and Automation for Threat Mitigation | Automation Lab|
+| Enterprise Cybersecurity Risk Assessment          | <a href="https://github.com/ethanrunn/Enterprise-Cybersecurity-Risk-Assessment/blob/main/README.md)">See Lab</a>|
+| Security Automation with Shuffle SOAR         |  <a href="#">See Lab</a> |
+| Network Traffic Monitoring and Attack Detection | <a href="#">See Lab</a> |
+| Incident Response Planning and Execution      |  <a href="#">See Lab</a> |
+| Case Management with TheHive                  |  <a href="#">See Lab</a> |
+| Scripting and Automation for Threat Mitigation |  <a href="#">See Lab</a> |
 
 ## Tools
 
