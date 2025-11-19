@@ -27,6 +27,7 @@ Whether it's analyzing security logs, conducting penetration tests, investigatin
 | Phishing Campaign using Gophish | <a href="https://github.com/ethanrunn/Gophish-Netflix-Phishing-Campaign/blob/main/README.md">See Lab</a>|
 | Cracking a VeraCrypt Password & Decrypting an Encrypted File | <a href="https://github.com/ethanrunn/Cracking-a-VeraCrypt-Password-Decrypting-an-Encrypted-File/edit/main/README.md">See Lab</a>|
 | Password Cracking on Open-Source System (Metasploitable2)          | <a href="https://github.com/ethanrunn/Password-Cracking-on-Metasploitable2/blob/main/README.md">See Lab</a>|
+| Threat Modeling SAST/DAST Assessment          | <a href="https://github.com/ethanrunn/Threat-Modeling-SAST-DAST-assessment">See Lab</a>|
 | SIEM Implementation and Log Analysis          | <a href="#">See Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="#">See Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Lab|
