@@ -28,8 +28,9 @@ Whether it's analyzing security logs, conducting penetration tests, investigatin
 | Cracking a VeraCrypt Password & Decrypting an Encrypted File | <a href="https://github.com/ethanrunn/Cracking-a-VeraCrypt-Password-Decrypting-an-Encrypted-File/edit/main/README.md">See Lab</a>|
 | Password Cracking on Open-Source System (Metasploitable2)          | <a href="https://github.com/ethanrunn/Password-Cracking-on-Metasploitable2/blob/main/README.md">See Lab</a>|
 | Threat Modeling SAST/DAST Assessment          | <a href="https://github.com/ethanrunn/Threat-Modeling-SAST-DAST-assessment">See Lab</a>|
-| SIEM Implementation and Log Analysis          | <a href="#">See Lab</a>|
+| Host Auditing, Vulnerability Scanning & Telemetry Validation          | <a href="https://github.com/ethanrunn/Host-Auditing-Vulnerability-Scanning-Telemetry-Validation/blob/main/README.md">See Lab</a>|
 | Enterprise Cybersecurity Risk Assessment          | <a href="https://github.com/ethanrunn/Enterprise-Cybersecurity-Risk-Assessment/blob/main/README.md)">See Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="#">See Lab</a>|
 | Security Automation with Shuffle SOAR         |  <a href="#">See Lab</a> |
 | Network Traffic Monitoring and Attack Detection | <a href="#">See Lab</a> |
 | Incident Response Planning and Execution      |  <a href="#">See Lab</a> |
